@@ -19,9 +19,7 @@ _I'm [Pierre Lemerle](https://www.linkedin.com/in/pierre-lemerle/), your new Eng
 
 **Autonomy:** I trust you to take ownership of your work. I value individuals who drive their projects, and I'm here to support you. Embrace a proactive approach to problem-solving, and if you face obstacles, let's discuss potential solutions together.
 
-**Flexibility:** I value flexibility in how and when you work. I tend to work and send late-hour messages; there's no expectation for an immediate response, nor for you to do the same. Work when it suits you best, and let's maintain a healthy work-life balance.
-
-**Well-being:** Your well-being is a priority. If you face challenges, reach out and we'll find solutions together. Maintaining a healthy work-life balance is crucial.
+**Flexibility:** I value flexibility in how and when you work. I tend to work and send late-hour messages; there's no expectation for an immediate response, nor for you to do the same. Work when it suits you best, maintaining a healthy work-life balance is crucial. If you face challenges, reach out and we'll find solutions together.
 
 **Continuous Learning:** I'm passionate about development and growth. Let's discuss your career goals and work together to identify development opportunities.
 
@@ -33,7 +31,7 @@ _I'm [Pierre Lemerle](https://www.linkedin.com/in/pierre-lemerle/), your new Eng
 
 **1 on 1:** I run regular 1 on 1 with all my reports. These meetings are for you; it is best when you prepare and bring up your topics or concerns. I will set up a shared notepad to support and document these;
 
-**Skip level 1 on 1:** I also try to run skip-level 1 on 1 with other people in my organization. It helps me to provide better mentoring and ensures that people who do not use my open-door policy still get heard.
+**Skip level 1 on 1:** I also like and try to run skip-level 1 on 1 with non-direct reports in my organization. It helps me to provide better guidance and ensures that people who do not use my open-door policy still get heard.
 
 **Focus:** Aim at being focused and attentive, in the moment. This is always a challenge in this hyperconnected world, so let's help each other in that domain; I rely on real-life meetings whenever possible, which allows me to turn off electronics and be more focused.
 
