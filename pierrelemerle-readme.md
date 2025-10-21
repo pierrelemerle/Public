@@ -1,8 +1,8 @@
 # Manager Readme: Pierre Lemerle
 
-_Hello Team,_
+_Dear Engineers,_
 
-_I'm [Pierre Lemerle](https://www.linkedin.com/in/pierre-lemerle/), your new Engineering Director. This document aims to provide insights into my values, how I operate, my expectations, and ways we can collaborate effectively._
+_I'm [Pierre Lemerle](https://www.linkedin.com/in/pierre-lemerle/), CTO at [Normative](https://normative.io/). This document aims to provide insights into my values, how I operate, my expectations, and ways we can collaborate effectively._
 
 ## Communication
 **Open-Door Policy:** My door (virtual and physical) is always open. Feel free to reach out with any concerns, or ideas, or just to chat.
